@@ -4,7 +4,7 @@
 
 # My languages/Frameworks/Databases
 
-![image](https://github.com/Yuvin15/Yuvin15/assets/101713793/036984b4-243d-43d2-890e-033171a850a5)
+![Csharp](https://github.com/Yuvin15/Yuvin15/assets/101713793/036984b4-243d-43d2-890e-033171a850a5)
 ![image](https://github.com/Yuvin15/Yuvin15/assets/101713793/006bfe3d-559c-4fb2-9989-bfbac4ff92eb)
 ![image](https://github.com/Yuvin15/Yuvin15/assets/101713793/06ee0f83-55dc-49e1-86d3-035b7c5855d6)
 ![image](https://github.com/Yuvin15/Yuvin15/assets/101713793/a9cdbc47-5968-4ae2-ba97-2fea2b94cf41)
