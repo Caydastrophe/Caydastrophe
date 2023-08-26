@@ -16,15 +16,9 @@
 ![image](https://github.com/Yuvin15/Yuvin15/assets/101713793/5bf0ab36-5645-443f-b5b7-9a78a1fb33f8)
 ![image](https://github.com/Yuvin15/Yuvin15/assets/101713793/dc387b99-8901-49cb-97fd-9af21c76d138)
 
-{Leave the above cause its just our frameworks, etc.}
-
-# My current projects 
-
-### {Put all your projects here}
-
 # Why did I want to pursue a path in IT?
 
-### {Put your stuff here}
+### Growing up, you would always find me holding a controller. I loved playing video games and getting lost in other worlds. This passion and interest in creating worlds that could be enjoyed by others started me down the route that lead to IT and becoming a software engineer. I enjoy the IT field as a whole and am always eager to grow my skills and collaborate with others.
 
 <!--
 **Caydastrophe/Caydastrophe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
