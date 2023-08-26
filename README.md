@@ -15,7 +15,7 @@
 ![azure](https://github.com/Yuvin15/Yuvin15/assets/101713793/7b0aca21-bbf7-4d6f-9ae5-2ac9835ddc20)
 ![MongoDB](https://github.com/Yuvin15/Yuvin15/assets/101713793/5bf0ab36-5645-443f-b5b7-9a78a1fb33f8)
 ![MySQL](https://github.com/Yuvin15/Yuvin15/assets/101713793/dc387b99-8901-49cb-97fd-9af21c76d138)
-![ReactJS](https://www.datocms-assets.com/45470/1631110818-logo-react-js.png)
+![ReactJS](https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/react.svg)
 
 
 # Why did I want to pursue a path in IT?
