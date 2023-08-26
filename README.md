@@ -15,7 +15,12 @@
 ![azure](https://github.com/Yuvin15/Yuvin15/assets/101713793/7b0aca21-bbf7-4d6f-9ae5-2ac9835ddc20)
 ![MongoDB](https://github.com/Yuvin15/Yuvin15/assets/101713793/5bf0ab36-5645-443f-b5b7-9a78a1fb33f8)
 ![MySQL](https://github.com/Yuvin15/Yuvin15/assets/101713793/dc387b99-8901-49cb-97fd-9af21c76d138)
-![image](https://github.com/Yuvin15/Yuvin15/assets/101713793/e5815ed6-e0a9-4515-bcaf-cafdf1e05583)
+![ReactJS](https://github.com/Yuvin15/Yuvin15/assets/101713793/e5815ed6-e0a9-4515-bcaf-cafdf1e05583)
+![Bootstrap](https://github.com/Caydastrophe/Caydastrophe/assets/62294509/ec48bcfa-e5f8-490c-ba6d-fe97f713d4c7)
+![AndroidStudio](https://github.com/Caydastrophe/Caydastrophe/assets/62294509/888715f6-2473-48da-9689-b05c9e6d7580)
+![oracle](https://github.com/Caydastrophe/Caydastrophe/assets/62294509/6886144f-ca70-43be-bc09-9bd7125d4d8a)
+
+
 
 
 
