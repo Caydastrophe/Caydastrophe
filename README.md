@@ -29,22 +29,6 @@
 
 ### Growing up, you would always find me holding a controller. I loved playing video games and getting lost in other worlds. This passion and interest in creating worlds that could be enjoyed by others started me down the route that lead to IT and becoming a software engineer. I enjoy the IT field as a whole and am always eager to grow my skills and collaborate with others.
 
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
-
-sequenceDiagram
-Alice ->> Bob: Hello Bob, how are you?
-Bob-->>John: How about you John?
-Bob--x Alice: I am good thanks!
-Bob-x John: I am good thanks!
-Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
-
-Bob-->Alice: Checking with John...
-Alice->John: Yes... John, how are you?
-
 <!--
 **Caydastrophe/Caydastrophe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
