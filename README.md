@@ -29,6 +29,12 @@
 
 ### Growing up, you would always find me holding a controller. I loved playing video games and getting lost in other worlds. This passion and interest in creating worlds that could be enjoyed by others started me down the route that lead to IT and becoming a software engineer. I enjoy the IT field as a whole and am always eager to grow my skills and collaborate with others.
 
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+
 sequenceDiagram
 Alice ->> Bob: Hello Bob, how are you?
 Bob-->>John: How about you John?
